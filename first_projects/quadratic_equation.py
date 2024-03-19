@@ -12,3 +12,4 @@ elif d > 0:
 elif d == 0:
     x = -b/(2 * a)
     print(x)
+#easy
