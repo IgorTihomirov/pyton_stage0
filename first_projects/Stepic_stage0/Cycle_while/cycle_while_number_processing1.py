@@ -1,5 +1,4 @@
 num = int(input())
-total = 0
 while num != 0:
     last_digit = num % 10
     print(last_digit)
