@@ -1,3 +1,4 @@
+# задача https://stepik.org/lesson/311433/step/6?unit=293861
 n = int(input())
 max_digit = -1 # здесь была ошибка n % 10
 while n > 0:
